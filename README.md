@@ -29,8 +29,8 @@ a QR code.
 
 [Chat]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/chat.png
 [Settings]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/settings.png
-[GenerateQR]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/generate_qr1.png
-[MachineDetails]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/machine_details1.png
+[GenerateQR]:https://github.com/abhinendra23/Scan2Equip-AdminApp/blob/master/screenshots/generate.png
+[MachineDetails]:https://github.com/abhinendra23/Scan2Equip-AdminApp/blob/master/screenshots/statistics.png
 [ManagerHome]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/manager_home1.png
 [ManagerProfile]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/manager_profile1.png
 [PendingComplaints]:https://github.com/sudhanshu010/Manager/blob/master/Screenshots/pending_complaints1.png
